@@ -1,0 +1,8 @@
+{
+  "name": "Auto Clip.Ai Studio",
+  "description": "Aplikasi pemotong video otomatis berdurasi hingga 1 jam menjadi banyak klip pendek 35–60 detik dengan animasi dan angle dinamis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
