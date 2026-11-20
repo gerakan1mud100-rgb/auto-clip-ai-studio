@@ -924,6 +924,8 @@ async function runUrlImport(importJob: UrlImportJob, cookiesTxt?: string) {
       '--no-playlist',
       '--newline',
       '--no-warnings',
+      '--extractor-args',
+      'youtube:player_client=android,ios,web',
       '--js-runtimes',
       'node',
       '-f',
